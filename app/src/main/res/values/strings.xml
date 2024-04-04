@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS330-DZ06-1</string>
+    <string name="action_settings">Settings</string>
+    <string name="reminder">Enter your name</string>
+    <string name="button">Prikazi naziv fakulteta</string>
+    <string name="button2">Prikazi mapu</string>
+</resources>
+
